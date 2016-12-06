@@ -8,3 +8,7 @@ The problem statement: How to capture and organize data of raffle tickets (aroun
 
 
 Technical Specs: Adobe Illustrator, Marvel, CSS Bootstrap, HTML, Javascript, PHP, MYSQL, XAMPP.
+
+#PressCoverage
+
+http://www.bestoftoronto.net/2016/11/coders-unite-for-6-charities-at-the-gift-the-code-hackathon-presented-by-capital-one-canada/
